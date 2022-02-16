@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @zgy9766
-- 👀 I’m interested in coding and recording
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @zgy9766.
+- 👀 I’m interested in coding and recording.
+- 🌱 I’m currently learning Java, microservice and more.
 - 📫 1156014155@qq.com
 
 <!---
